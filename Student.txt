@@ -1,0 +1,23 @@
+Student name:John
+I'd:1
+Class :02
+
+Student name: sam
+I'd :02
+Class:5
+
+Student name: Tim
+I'd :03
+Class:3
+
+Student name: Jacks
+I'd :04
+Class:5
+
+Student name: Jenny
+I'd :07
+Class:1
+
+Student name: Fisa
+I'd :08
+Class:7
